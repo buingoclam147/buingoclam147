@@ -18,7 +18,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=buingoclam147&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=buingoclam147&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=buingoclam147&show_icons=true&theme=radical
 
 
 ### 🤝🏻 &nbsp;Connect with Me
